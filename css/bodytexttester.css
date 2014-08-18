@@ -1,0 +1,91 @@
+p {
+	margin:.2em 0;
+	padding:0;
+	text-align: left;
+	line-height: 1.5;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+}
+
+body {
+	text-align: center;
+	height: 100vh;
+	background: #eee;
+	font-size: 100%;
+	font-weight: 100;
+}
+
+body > div {
+	max-width: 400px;
+	margin-top:.8em;
+	margin-bottom: 1.6em;
+	margin-left:1em;
+	margin-right: 1em;
+	display: inline-block;
+}
+
+h1 {
+	font-family: "bree";
+	font-size: 3.2em;
+	position: relative;
+	margin:0;
+	padding: 0;
+}
+
+h4 {
+	font-family: "bree";
+	font-weight: 100;
+	margin: 0 0 2.4em 0;
+	padding: 0;
+	position: relative;
+	left: 6.4em;
+}
+
+.container {
+
+}
+
+.container1 {
+font-family: "angie-sans";
+font-size: 
+font-weight:
+}
+
+.container2 {
+font-family: "prenton";	
+font-size: 
+font-weight:
+}
+
+.container3 {
+font-family: "schoolbook-web";
+font-size: 
+font-weight:
+}
+
+.container4 {
+font-size: 
+font-weight:	
+}
+
+.container5 {
+font-size: 
+font-weight:	
+}
+
+.container6 {
+font-size: 
+font-weight:	
+}
+
+.container7 {
+font-size: 
+font-weight:	
+}
+
+.container8 {
+font-size: 
+font-weight:	
+}
